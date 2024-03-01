@@ -14,3 +14,8 @@ node_modules/
 .DS_Store
 Thumbs.db
 
+# Extra files
+randomJokes.js
+package-lock.json
+figlet.js
+
